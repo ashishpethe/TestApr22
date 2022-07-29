@@ -9,7 +9,6 @@ public class Class1 {
 		
 		System.out.println("Project conflict branch A NEW Changes1");
 		System.out.println("Project conflict branch A NEW Changes2");
-		System.out.println("Project conflict branch A NEW Changes3");
 
 	}
 
