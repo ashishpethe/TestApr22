@@ -6,8 +6,13 @@ public class Class1 {
 
 		System.out.println("Test Class- Update branch A");
 		System.out.println("Project conflict branch A");
+
+		System.out.println("Project conflict branch A NEW Changes1");
+		System.out.println("Project conflict branch A NEW Changes2");
+
 		System.out.println("Test Class Branch B");
 		System.out.println("Test conflict Branch B");
+    
 	}
 
 }
